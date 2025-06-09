@@ -30,7 +30,8 @@ O objetivo deste projeto foi:
 
 2. Acesse a pasta do projeto:
 
-- cd nome-do-repositorio
+   ```bash
+   cd nome-do-repositorio
 
 3. Abra o arquivo index.html no seu navegador.
 
