@@ -37,18 +37,6 @@ O objetivo deste projeto foi:
 
 ---
 
-## 📦 Estrutura de Pastas
-
-    ```bash
-   📦 twitter-login-clone
-   ├── index.html
-   ├── style.css
-   ├── /img
-   │   └── twitter-logo.png
-   └── README.md
-
----
-
 ## 🤝 Contribuição
 
 Este é um projeto pessoal para fins educacionais, mas se quiser sugerir melhorias, fique à vontade para abrir issues ou pull requests.
