@@ -39,6 +39,7 @@ O objetivo deste projeto foi:
 
 ## 📦 Estrutura de Pastas
 
+    ```bash
    📦 twitter-login-clone
    ├── index.html
    ├── style.css
