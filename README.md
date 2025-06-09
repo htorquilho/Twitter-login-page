@@ -39,12 +39,12 @@ O objetivo deste projeto foi:
 
 ## 📦 Estrutura de Pastas
 
-📦 twitter-login-clone
-├── index.html
-├── style.css
-├── /img
-│   └── twitter-logo.png
-└── README.md
+   📦 twitter-login-clone
+   ├── index.html
+   ├── style.css
+   ├── /img
+   │   └── twitter-logo.png
+   └── README.md
 
 ---
 
